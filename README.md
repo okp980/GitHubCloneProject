@@ -1,2 +1,1 @@
-# GitHubCloneProject
-This is a sample clone app
+This is the description of my repo
